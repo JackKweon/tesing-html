@@ -1,4 +1,4 @@
-const http = require('home.html');
+const http = require('html');
 
 const port = process.env.PORT || 5000;
 
